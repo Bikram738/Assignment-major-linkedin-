@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+:root{    /* this root elements are not fully used*/
+    --bg-color: white;
+    --titel-size:18px;
+    --transparant: #00000000;
+    --heading-color:rgb(68, 68, 68);
+    --heading-f-size:16px;
+}
